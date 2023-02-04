@@ -1,0 +1,10 @@
+graph traversal -> refers to the process of visting each vertex of a graph
+
+two traversal algorithms
+    1. BFS -> Breadth First Search
+    2. DFS -> Depth First Search
+
+in a typical graph traversal algorithm, we treaverse a node and append that in a traversed-node-collection.
+
+Exploration -> visiting all the connectee vertexes of a node
+In this case we'll use Queue Data Structure (in BFS) and Stack Data Structure (in DFS).
